@@ -1,0 +1,6 @@
+hash: db72329ad2294a3d1c4963a87e71ab51a62c371fca631ecea74bf9406d320912
+updated: 2018-03-03T22:07:21.829167335-03:00
+imports:
+- name: github.com/graphql-go/graphql
+  version: 5e7dd4fc3e87341229fa03d8f79d2ab5455963fb
+testImports: []
